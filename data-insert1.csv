@@ -1,0 +1,50 @@
+id,text,label
+1,Tanggal 20 januari 2018,sys.info_datetime
+2,Jogja-malang,sys.info_greeting
+3,Tiket kereta,sys.ask_purchase
+4,Lanjut Book,sys.info_confirm_yes
+5,triadara87@gmail.com,sys.info_email
+6,Book JT 848,sys.info_gender_salut
+7,triadara 87@gmail.com,sys.info_email
+8,6,28E+12,sys.info_general
+9,Koreksi Penumpang,sys.info_greeting
+10,Input Kontak,sys.info_greeting
+11,Ihwal fajar Kurniawan,sys.info_greeting
+12,Tuan,sys.info_gender_salut
+13,Book #1,sys.info_general
+14,Solo ke Palangkaraya,sys.info_city
+15,Tanggal 2 Januari,sys.info_datetime
+16,0853-2965-7815,sys.info_greeting
+17,Input Kontak,sys.info_greeting
+18,Tuan Ihwal fajar,sys.info_gender_salut
+19,Tuan,sys.info_gender_salut
+20,1,sys.info_general
+21,Tuan/Ihwal fajar/0853-2965-7815,sys.info_gender_salut
+22,Koreksi Penumpang,sys.info_greeting
+23,Input Kontak,sys.info_greeting
+24,Ihwal fajar,sys.info_greeting
+25,Tuan,sys.info_gender_salut
+26,Book 1,sys.info_general
+27,#1,sys.info_general
+28,Tanggal 2,sys.ask_day_and_date
+29,Solo-palangkaraya,sys.info_greeting
+30,Book SJ712,sys.info_datetime
+31,Lanjut Book,sys.info_confirm_yes
+32,dk.star.lovers@gmail.com,sys.info_email
+33,82377885502,sys.info_greeting
+34,Input Kontak,sys.info_greeting
+35,Andika Dwi Saputra,sys.info_name
+36,Tuan,sys.info_gender_salut
+37,Book SJ712,sys.info_datetime
+38,Book SJ712,sys.info_datetime
+39,Semua Jadwal,sys.ask_schedule
+40,16-Jan-18,sys.info_greeting
+41,15 januari? Dan 16 januari?,sys.ask_birthday
+42,09-Jan-18,sys.info_greeting
+43,Kalo hari senin selasa harga tiket termurahnya brp,sys.ask_price
+44,Harga tiket pesawat hari rabu tgl 17 januari jogja Makassar brp ya min?,sys.ask_day_and_date
+45,tes,sys.info_test
+46,untuk dua hari lagi,sys.info_datetime
+47,lionair jakarta denpasar,sys.info_city
+48,halo,sys.info_greeting
+49,Lanjut Book,sys.info_confirm_yes

@@ -1,0 +1,49 @@
+{"_id":{"$oid":"5fe215f7ce500750c52d438f"},"id":2,"text":"Jogja-malang","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4390"},"id":1,"text":"Tanggal 20 januari 2018","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4391"},"id":3,"text":"Tiket kereta","label":"sys.ask_purchase"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4392"},"id":4,"text":"Lanjut Book","label":"sys.info_confirm_yes"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4393"},"id":6,"text":"Book JT 848","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4394"},"id":7,"text":"triadara 87@gmail.com","label":"sys.info_email"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4395"},"id":5,"text":"triadara87@gmail.com","label":"sys.info_email"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4396"},"id":9,"text":"Koreksi Penumpang","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4397"},"id":8,"text":6,"label":2.8E+13,"field3":"sys.info_general"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4398"},"id":11,"text":"Ihwal fajar Kurniawan","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d4399"},"id":12,"text":"Tuan","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439a"},"id":13,"text":"Book #1","label":"sys.info_general"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439b"},"id":14,"text":"Solo ke Palangkaraya","label":"sys.info_city"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439c"},"id":15,"text":"Tanggal 2 Januari","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439d"},"id":16,"text":"0853-2965-7815","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439e"},"id":17,"text":"Input Kontak","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d439f"},"id":18,"text":"Tuan Ihwal fajar","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a0"},"id":10,"text":"Input Kontak","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a1"},"id":20,"text":1,"label":"sys.info_general"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a2"},"id":21,"text":"Tuan/Ihwal fajar/0853-2965-7815","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a3"},"id":22,"text":"Koreksi Penumpang","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a4"},"id":19,"text":"Tuan","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a5"},"id":23,"text":"Input Kontak","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a6"},"id":24,"text":"Ihwal fajar","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a7"},"id":25,"text":"Tuan","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a8"},"id":27,"text":"#1","label":"sys.info_general"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43a9"},"id":28,"text":"Tanggal 2","label":"sys.ask_day_and_date"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43aa"},"id":29,"text":"Solo-palangkaraya","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43ab"},"id":30,"text":"Book SJ712","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43ac"},"id":31,"text":"Lanjut Book","label":"sys.info_confirm_yes"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43ad"},"id":32,"text":"dk.star.lovers@gmail.com","label":"sys.info_email"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43ae"},"id":26,"text":"Book 1","label":"sys.info_general"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43af"},"id":34,"text":"Input Kontak","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b0"},"id":33,"text":82377885502,"label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b1"},"id":36,"text":"Tuan","label":"sys.info_gender_salut"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b2"},"id":37,"text":"Book SJ712","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b3"},"id":38,"text":"Book SJ712","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b4"},"id":35,"text":"Andika Dwi Saputra","label":"sys.info_name"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b5"},"id":39,"text":"Semua Jadwal","label":"sys.ask_schedule"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b6"},"id":40,"text":"16-Jan-18","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b7"},"id":42,"text":"09-Jan-18","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b8"},"id":43,"text":"Kalo hari senin selasa harga tiket termurahnya brp","label":"sys.ask_price"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43b9"},"id":41,"text":"15 januari? Dan 16 januari?","label":"sys.ask_birthday"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43ba"},"id":44,"text":"Harga tiket pesawat hari rabu tgl 17 januari jogja Makassar brp ya min?","label":"sys.ask_day_and_date"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43bb"},"id":45,"text":"tes","label":"sys.info_test"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43bc"},"id":46,"text":"untuk dua hari lagi","label":"sys.info_datetime"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43bd"},"id":47,"text":"lionair jakarta denpasar","label":"sys.info_city"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43be"},"id":48,"text":"halo","label":"sys.info_greeting"}
+{"_id":{"$oid":"5fe215f7ce500750c52d43bf"},"id":49,"text":"Lanjut Book","label":"sys.info_confirm_yes"}
